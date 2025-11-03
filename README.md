@@ -71,7 +71,7 @@ No subscriptions. No complexity. Just pure creation.
 
 ## 🕹️ License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](LICENSE.md).  
 Feel free to modify, expand, or contribute!
 
 ---
