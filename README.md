@@ -76,4 +76,4 @@ Feel free to modify, expand, or contribute!
 
 ---
 
-### 💀 Made for Indie Horror Developers by Indie Horror Developers
+### 💀 Made for Indie Horror Developers by Buddhadeb Chhetri
